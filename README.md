@@ -92,6 +92,11 @@ py = RADAR_CENTER_Y + sin(angle) * radius
 │   └── radar_demo.jpg          # Running OLED radar photo
 └── README.md                   # Project overview & documentation
 ```
+## 📸 Prototype Photos
+
+
+<img width="1500" height="2000" alt="radar" src="https://github.com/user-attachments/assets/9f24d8a2-bcb4-440a-b494-a64bd3da2425" />
+
 
 ---
 
