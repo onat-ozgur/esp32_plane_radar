@@ -95,7 +95,8 @@ py = RADAR_CENTER_Y + sin(angle) * radius
 ## 📸 Prototype Photos
 
 
-<img width="1500" height="2000" alt="radar" src="https://github.com/user-attachments/assets/9f24d8a2-bcb4-440a-b494-a64bd3da2425" />
+<img width="1029" height="1170" alt="radar" src="https://github.com/user-attachments/assets/fe6d7569-4e2a-4a2c-8339-ad0d21344f96" />
+
 
 
 ---
